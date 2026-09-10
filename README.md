@@ -15,14 +15,13 @@
 
 ### 🔭 What I'm Doing
 - 🤖 **Robot Competitions**: Core developer for wheel-legged robots, focusing on high-performance motion control.
-- 🧠 **Research**: Exploring **Residual Reinforcement Learning + MPC/LQR** hybrid control within simulation.
-- ⚡ **Embedded Systems**: Low-level driver development (STM32H7, ODrive) and real-time communication.
+- 🧠 **Research**: Exploring **Residual Reinforcement Learning + MPC/LQR** hybrid control.
 
 ### 🛠️ Tech Stack
 | Category | Tech & Tools |
 | :--- | :--- |
-| **Languages & Core** | `C++`, `Python`, `STM32H7`, `ROS2` |
-| **Simulation & RL** | `MuJoCo`, `Genesis`, `Gazebo`, `PyTorch` |
+| **Languages & Core** | `C++`, `Python`, `ROS2` |
+| **Simulation & RL** | `MuJoCo`, `Genesis`, `Gazebo` |
 | **Control & Hardware** | `MPC`, `LQR`, `PID`, `ODrive`, `Serial/UDP` |
 | **Tools & Env** | `Ubuntu`, `CMake`, `Git`, `RViz`, `Qt` |
 
