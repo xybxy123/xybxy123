@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
     <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </p>
 </div>
@@ -30,8 +29,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xybxy123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xybxy123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xybxy123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&v=1" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xybxy123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&v=1" height="165" alt="Top Languages" />
 </p>
 
 <div align="center">
